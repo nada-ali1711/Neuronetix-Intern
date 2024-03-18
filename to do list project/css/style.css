@@ -1,0 +1,34 @@
+.container{
+    text-align: center;
+    font-size: 30px;
+    width: 400px;
+    height: 440px;
+    position: relative;
+    background: transparent;
+    backdrop-filter: blur(3px);
+    border-radius: 20px;
+    border: 2px solid gray;
+    color: white;
+}
+#list li{
+    list-style: none;
+    padding-right: 60px;
+    width: 250px;
+    height: 40px;
+    position: relative;
+    border-radius: 10px;
+    border: 2px solid gray;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+body{
+    padding-top: 100px;
+    padding-left: 470px;
+    background-image: url('../images/imp.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+
+
